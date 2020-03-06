@@ -1,0 +1,5 @@
+﻿  Book Project.cpp
+C:\Data\CP3\Electric\Book Project\Book Project\Book Project.cpp(13,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Data\CP3\Electric\Book Project\Book Project\Book Project.cpp(14,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Data\CP3\Electric\Book Project\Book Project\Book Project.cpp(15,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Book Project.vcxproj -> C:\Data\CP3\Electric\Book Project\Debug\Book Project.exe
